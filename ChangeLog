@@ -1,4 +1,10 @@
+2007-10-09  Martin Maechler  <maechler@stat.math.ethz.ch>
+
+	* man/globtemp.Rd: and others: eliminate "\non_function"
+
 2006-08-03  Martin Maechler  <maechler@stat.math.ethz.ch>
+
+	* DESCRIPTION (Version): 0.9-6 -- released to CRAN
 
 	* src/drqssbc.f (drqssbc): replace the "^L" (not liked by gfortran 4.1)
 	by outline minor mode and outline-regexp (in emacs).

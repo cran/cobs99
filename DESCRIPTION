@@ -1,6 +1,6 @@
 Package: cobs99
-Version: 0.9-6
-Date: 2006-08-03
+Version: 0.9-7
+Date: 2007-10-09
 Title: Constrained B-splines -- outdated 1999 version
 Author: Pin T. Ng <Pin.Ng@nau.edu> and Xuming He, U. Illinois;
 	R port by Martin Maechler
@@ -11,4 +11,4 @@ Description: Qualitatively Constrained (Regression) Smoothing via Linear
 URL: http://www.cba.nau.edu/pin-ng/cobs.html
 Depends: R (>= 2.0.1)
 License: GPL version 2 or later
-Packaged: Mon Oct  2 09:55:27 2006; maechler
+Packaged: Tue Oct  9 09:13:42 2007; maechler
