@@ -1,6 +1,6 @@
 
 R : Copyright 2006, The R Foundation for Statistical Computing
-Version 2.3.1 Patched (2006-08-03 r38783)
+Version 2.3.1 Patched (2006-07-06 r38508)
 ISBN 3-900051-07-0
 
 R is free software and comes with ABSOLUTELY NO WARRANTY.
@@ -300,5 +300,5 @@ R^2 = 99.84% ;  empirical tau (over all): 5/7  = 0.714286 (target tau : 0.5)
 [100,] 12.000012 96.00009 91.45160 100.5486 91.48258 100.5176
 > 
 > cat('Time elapsed: ', proc.time(),'\n') # for ``statistical reasons''
-Time elapsed:  0.595 0.087 1.33 0 0 
+Time elapsed:  0.584 0.069 1.054 0 0 
 > 

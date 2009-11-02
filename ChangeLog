@@ -1,6 +1,14 @@
+2009-11-02  Martin Maechler  <maechler@stat.math.ethz.ch>
+
+	* DESCRIPTION (Version): 0.9-8 - just for this fix:
+
+	* man/cobsOld.Rd, cobs.Rd, ..: fix old syntax errors that newer versions of R
+	(Rd_parse) no longer accept.
+
 2007-10-09  Martin Maechler  <maechler@stat.math.ethz.ch>
 
 	* man/globtemp.Rd: and others: eliminate "\non_function"
+	and release 0.9-7 to CRAN
 
 2006-08-03  Martin Maechler  <maechler@stat.math.ethz.ch>
 
