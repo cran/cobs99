@@ -1,3 +1,9 @@
+2009-12-01  Martin Maechler  <maechler@stat.math.ethz.ch>
+
+	* DESCRIPTION (Version): 0.9-9 - just for this fix:
+
+	* R/l1looDesign.R (loo.design): s/z1.1/z1.2/ typo
+
 2009-11-02  Martin Maechler  <maechler@stat.math.ethz.ch>
 
 	* DESCRIPTION (Version): 0.9-8 - just for this fix:
